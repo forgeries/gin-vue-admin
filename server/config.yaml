@@ -18,6 +18,7 @@ zap:
   log-in-console: true
   retention-day: -1
 
+
 # redis configuration
 redis:
   #是否使用redis集群模式
